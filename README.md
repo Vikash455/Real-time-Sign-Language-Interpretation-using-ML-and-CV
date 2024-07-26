@@ -12,3 +12,6 @@ Real-time hand tracking and landmark detection using MediaPipe.
 Gesture recognition using machine learning models trained with scikit-learn.
 Integration with OpenCV for capturing and processing webcam frames.
 User-friendly interface displaying detected signs and their meanings.
+
+Team Member:
+1.Anshul Benhur Lakra
