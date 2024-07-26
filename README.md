@@ -1,4 +1,8 @@
 # sign-language-detector-python
+you have to create your own data set using collect_images.py
+then run create_dataset.py
+then run train_classifier.py
+then run inference_classifier.py
 
 Sign language detector with Python, OpenCV and Mediapipe !
 
